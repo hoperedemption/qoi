@@ -1,5 +1,9 @@
 # Qoi-Java
 
+<p align="center">
+  <img src="references/qoi_logo.png" width="500">
+</p>
+
 A Java reimplementation of the **Quite OK Image** (QOI) format. QOI is a fast and simple lossless image compression format that achieves similar sizes to PNG while significantly outperforming it in encoding and decoding speed. It was done as part of one of two projects in the course "Introduction to programming" given by Prof. Jamila Sam. Special thanks to Hamza Remmal for the project idea and structure.  
 
 ## Contributors
