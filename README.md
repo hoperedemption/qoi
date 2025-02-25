@@ -4,7 +4,7 @@ A Java reimplementation of the **Quite OK Image** (QOI) format. QOI is a fast an
 
 ## Contributors
 
-The code in this repo was co-written by my friend Yassine and me.
+The code in this repo was co-written by my friend Yassine El Graoui and me.
 
 ## Features
 - **Fully implemented in Java** as part of a first-year programming project.
